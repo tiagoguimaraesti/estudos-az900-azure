@@ -20,4 +20,4 @@ Aqui estão os meus resumos organizados de acordo com o peso oficial do exame:
 * Azure Cloud Shell
 
 ---
-*Desenvolvido com dedicação por [https://www.linkedin.com/in/tiagoguimaraesti/]*
+*Resumos elaborados com apoio de IA e revisados por mim com base na documentação oficial da Microsoft Learn.*
